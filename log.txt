@@ -1,0 +1,6 @@
+Enter a number: 10
+10
+Your number is 10 
+
+--got here--
+Your
