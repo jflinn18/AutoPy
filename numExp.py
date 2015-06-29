@@ -1,2 +1,4 @@
 num = raw_input('Enter a number: ')
-print str(int(num) + 10) + ' is your number plus 10\n'
+print 'Your number is ' + str(int(num))
+resp = raw_input("What is your name? ")
+print 'Your name is ' + resp
